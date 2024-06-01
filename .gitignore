@@ -1,0 +1,10 @@
+# Ignore Visual Studio generated files
+.vs/
+/task4_csharp/bin/
+/task4_csharp/obj/
+
+# Ignore user-specific files
+*.user
+
+# Ignore project user settings
+*.csproj.user
